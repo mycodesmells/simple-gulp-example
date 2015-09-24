@@ -1,0 +1,12 @@
+{
+  "name": "simple-gulp-example",
+  "version": "0.0.0",
+  "devDependencies": {
+    "gulp": "~3.9.0",
+    "gulp-less": "~3.0.3",
+    "gulp-babel": "~5.2.1"
+  },
+  "dependencies": {
+    "del": "~2.0.2"
+  }
+}
